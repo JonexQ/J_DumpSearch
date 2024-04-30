@@ -16,7 +16,7 @@ Modify the config.lua file and sv_DumpSearch.lua loot table as needed
 Start the script and enjoy!
 
 ## Usage
-- Press `E` next to the trash can to examine it.
+- Press `E` next to the trashcan to examine it.
 
 ## Dependencies
 - [OX_Lib](https://github.com/overextended/ox_lib)

@@ -1,7 +1,7 @@
 # J_DumpSearch
 Trash searching script for FiveM
 
-#Features
+# Features
 Bleeding Chance: Adjust the chance of bleeding according to your needs.
 Bleeding Duration: Adjust the duration of bleeding based on its severity.
 Trash Diving Time: Set the time your character spends on searching a trash can.

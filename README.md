@@ -19,5 +19,5 @@ Start the script and enjoy!
 - Press `E` next to the trashcan to examine it.
 
 ## Dependencies
-- [ox_Lib](https://github.com/overextended/ox_lib)
-- [ox_Inventory](https://github.com/overextended/ox_inventory)
+- [ox_lib](https://github.com/overextended/ox_lib)
+- [ox_inventory](https://github.com/overextended/ox_inventory)
